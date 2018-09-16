@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+proscenic/proscenic.py
+proscenic.egg-info/PKG-INFO
+proscenic.egg-info/SOURCES.txt
+proscenic.egg-info/dependency_links.txt
+proscenic.egg-info/top_level.txt
